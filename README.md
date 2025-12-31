@@ -7,6 +7,11 @@
 ![Forks](https://img.shields.io/github/forks/bishwaghimire/ai-ml-books?style=social)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
+<p align="left">
+  <img src="ai-image.png" width="350">
+</p>
+
+
 ---
 
 ## About This Repository
@@ -62,122 +67,20 @@ Strong fundamentals matter more than speed.
 
 ## Learning Paths
 
-### Artificial Intelligence (AI)
-
-**Beginner**
-- Core AI concepts
-- Search, logic, agents
-- *Artificial Intelligence: A Modern Approach*
-
-**Intermediate**
-- Probabilistic reasoning
-- Planning & decision making
-- Multi-agent systems
-
-**Advanced**
-- AI safety & alignment
-- Autonomous agents
-- Research-level AI systems
 
 ---
+## AI & ML Roadmap
 
-### Machine Learning (ML)
-
-**Beginner**
-- Linear & logistic regression
-- Supervised vs unsupervised learning
-- Andrew Ng ML course
-- *Hands-On Machine Learning*
-
-**Intermediate**
-- Tree-based models
-- Feature engineering
-- Model evaluation & bias
-
-**Advanced**
-- Bayesian machine learning
-- Probabilistic graphical models
-- ICML / NeurIPS papers
+| Domain | Beginner | Intermediate | Advanced |
+|------|---------|--------------|----------|
+| **Artificial Intelligence (AI)** | Core AI concepts<br>Search, logic, agents<br>*Artificial Intelligence: A Modern Approach* | Probabilistic reasoning<br>Planning & decision making<br>Multi-agent systems | AI safety & alignment<br>Autonomous agents<br>Research-level AI systems |
+| **Machine Learning (ML)** | Linear & logistic regression<br>Supervised vs unsupervised learning<br>Andrew Ng ML course<br>*Hands-On Machine Learning* | Tree-based models<br>Feature engineering<br>Model evaluation & bias | Bayesian ML<br>Probabilistic graphical models<br>ICML / NeurIPS papers |
+| **Deep Learning (DL)** | Neural networks<br>Backpropagation<br>*Neural Networks and Deep Learning* | CNNs, RNNs, LSTMs<br>Optimization & regularization<br>Transfer learning | Self-supervised learning<br>Architecture design<br>Large-scale training |
+| **Transformers & LLMs** | Attention mechanism<br>Transformer architecture<br>*Attention Is All You Need*<br>Illustrated Transformer | BERT, GPT, T5<br>Fine-tuning LLMs<br>Prompt engineering | Training LLMs at scale<br>RLHF & alignment<br>Multimodal models |
+| **RAG (Retrieval-Augmented Generation)** | Embeddings<br>Vector databases<br>IR basics | RAG pipelines<br>Chunking & indexing<br>LangChain / LlamaIndex | Hybrid & agentic RAG<br>Evaluation & hallucination reduction<br>Enterprise RAG |
+| **MLOps & Production AI** | ML lifecycle<br>Model versioning<br>Simple deployment | CI/CD for ML<br>Monitoring & drift detection<br>Feature stores | Scalable ML systems<br>Distributed training<br>Production LLM infrastructure |
 
 ---
-
-### Deep Learning (DL)
-
-**Beginner**
-- Neural networks
-- Backpropagation
-- *Neural Networks and Deep Learning*
-
-**Intermediate**
-- CNNs, RNNs, LSTMs
-- Optimization & regularization
-- Transfer learning
-
-**Advanced**
-- Self-supervised learning
-- Architecture design
-- Large-scale training
-
----
-
-### Transformers and LLMs
-
-**Beginner**
-- Attention mechanism
-- Transformer architecture
-- *Attention Is All You Need*
-- Illustrated Transformer
-
-**Intermediate**
-- BERT, GPT, T5
-- Fine-tuning LLMs
-- Prompt engineering
-
-**Advanced**
-- Training LLMs at scale
-- RLHF & alignment
-- Multimodal models
-
----
-
-### Retrieval-Augmented Generation (RAG)
-
-**Beginner**
-- Embeddings
-- Vector databases
-- Information retrieval basics
-
-**Intermediate**
-- RAG pipelines
-- Chunking & indexing
-- LangChain / LlamaIndex
-
-**Advanced**
-- Hybrid & agentic RAG
-- Evaluation & hallucination reduction
-- Enterprise RAG systems
-
----
-
-### MLOps and Production AI
-
-**Beginner**
-- ML lifecycle
-- Model versioning
-- Simple deployment
-
-**Intermediate**
-- CI/CD for ML
-- Monitoring & drift detection
-- Feature stores
-
-**Advanced**
-- Scalable ML systems
-- Distributed training
-- Production LLM infrastructure
-
----
-
 ## Trending AI Topics
 
 - Large Language Models (LLMs)
@@ -299,3 +202,4 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
