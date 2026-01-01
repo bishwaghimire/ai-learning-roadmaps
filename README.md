@@ -40,8 +40,6 @@ The resources are selected to balance **theory, intuition, and real-world applic
 Before starting your AI / Machine Learning journey, ensure that your development environment is properly set up.  
 Having the right tools in place will help you focus on learning concepts instead of fixing setup issues.
 
-A basic understanding of **mathematics**—especially **linear algebra, probability, and calculus**—is strongly recommended to better understand how ML algorithms and neural networks work.
-
 | S.No | Tool / Concept | Resource |
 |-----|----------------|----------|
 | 1 | `Python (3.10+)` | [Download Python (Official)](https://www.python.org/downloads/) |
@@ -157,6 +155,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
