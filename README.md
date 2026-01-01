@@ -13,7 +13,7 @@ The resources are selected to balance **theory, intuition, and real-world applic
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 <p align="left">
-  <img src="ai-image.png" width="350">
+  <img src="assets/ai-image.png" width="350">
 </p>
 
 
