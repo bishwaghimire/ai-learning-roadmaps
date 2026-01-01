@@ -69,13 +69,11 @@ Each roadmap is designed as a **clear, step-by-step learning guide**, moving fro
 
 ---
 
-# Mathematics Foundations for AI / Machine Learning
+##  Mathematics Foundations for AI / ML / DL 
 
 This repository contains a **curated list of foundational mathematics resources** required for **AI, Machine Learning, and Data Science**.  
-The resources are organized by **subject**, **difficulty level**, and **resource type** (Book, YouTube Playlist, University Course).    
+The resources are organized by **subject**, **difficulty level**, and **resource type** (Book, YouTube Playlist, University Course).
 
-
-##  Mathematics Foundations for AI / ML / DL 
 
 | S.N | Area | AI/ML-Relevant Focus | Best Resource | Type | Level |
 |----|------|----------------------|--------------|------|-------|
@@ -162,6 +160,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
