@@ -25,23 +25,31 @@ The resources are selected to balance **theory, intuition, and real-world applic
 
 - [Getting Started](#getting-started)
 - [Trending AI Topics](#trending-ai-topics)
-- [Mathematics Foundations for AI / ML / DL](#mathematics-foundations-for-ai--ml--dl)
+- [The Math Behind It All](#the-math-behind-it-all)
 - [Building Your Foundation](#building-your-foundation)
 - [Research Papers and Blogs](#research-papers-and-blogs)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Learning Roadmaps](#learning-roadmaps)
-- [Contribution Guide](#contribution-guide)
+- [Contribution](#contribution)
 - [License](#license)
 
 ---
 
 ## Getting Started
 
-If you are **new to AI**, follow this order:
+Before starting your AI / Machine Learning journey, ensure that your development environment is properly set up.  
+Having the right tools in place will help you focus on learning concepts instead of fixing setup issues.
 
-> **Math → Machine Learning → Deep Learning → Transformers → LLMs → RAG → MLOps**
+A basic understanding of **mathematics**—especially **linear algebra, probability, and calculus**—is strongly recommended to better understand how ML algorithms and neural networks work.
 
-Strong fundamentals matter more than speed.
+| S.No | Tool / Concept | Resource |
+|-----|----------------|----------|
+| 1 | `Python (3.10+)` | [Download Python (Official)](https://www.python.org/downloads/) |
+| 2 | `VS Code` | [Visual Studio Code Download](https://code.visualstudio.com/download) |
+| 3 | `Virtual Environment (venv)` | [Python venv Documentation](https://docs.python.org/3/library/venv.html) |
+| 4 | `Notebooks` | [Google Colab](https://colab.research.google.com/) / [Jupyter Notebook](https://jupyter.org/) |
+| 5 | `Python Libraries` | [Essential Python Libraries for AI/ML](Packages.md) |
+
 
 ---
 
@@ -59,7 +67,7 @@ Strong fundamentals matter more than speed.
 
 ---
 
-##  Mathematics Foundations for AI / ML / DL 
+## The Math Behind It All
 
 This repository contains a **curated list of foundational mathematics resources** required for **AI, Machine Learning, and Data Science**.  
 The resources are organized by **subject**, **difficulty level**, and **resource type** (Book, YouTube Playlist, University Course).
@@ -132,7 +140,7 @@ Each roadmap is designed as a **clear, step-by-step learning guide**, moving fro
 ---
 
 
-## Contribute
+## Contribution
 
 Many hands make light work! I would be more than happy if you are willing to contribute to this repository and help others learn better.
 
@@ -149,6 +157,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
