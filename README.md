@@ -24,12 +24,12 @@ The resources are selected to balance **theory, intuition, and real-world applic
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Learning Paths](#learning-roadmaps)
 - [Trending AI Topics](#trending-ai-topics)
 - [Mathematics Foundations for AI / ML / DL](#mathematics-foundations-for-ai--ml--dl)
 - [Building Your Foundation](#building-your-foundation)
 - [Research Papers and Blogs](#research-papers-and-blogs)
 - [Tools and Frameworks](#tools-and-frameworks)
+- [Learning Roadmaps](#learning-roadmaps)
 - [Contribution Guide](#contribution-guide)
 - [License](#license)
 
@@ -45,17 +45,7 @@ Strong fundamentals matter more than speed.
 
 ---
 
-## Learning Roadmaps
 
-Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
-
-- 📘 [AI Roadmap](roadmaps/ai-roadmap.md)
-- 📗 [Machine Learning Roadmap](roadmaps/ml-roadmap.md)
-- 📕 [Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)
-- 🤖 [Transformers & LLM Roadmap](roadmaps/llm-transformers-roadmap.md)
-- 🔍 [RAG Roadmap](roadmaps/rag-roadmap.md)
-- 🚀 [MLOps & Production AI Roadmap](roadmaps/mlops-roadmap.md)
----
 ## Trending AI Topics
 
 - Large Language Models (LLMs)
@@ -129,25 +119,24 @@ This section covers the **core programming and tooling foundations** required fo
 - LlamaIndex – https://www.llamaindex.ai/
 
 ---
+## Learning Roadmaps
 
-## Contribution Guide
+Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
 
-Contributions are **highly welcome** 🚀
+- 📘 [AI Roadmap](roadmaps/ai-roadmap.md)
+- 📗 [Machine Learning Roadmap](roadmaps/ml-roadmap.md)
+- 📕 [Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)
+- 🤖 [Transformers & LLM Roadmap](roadmaps/llm-transformers-roadmap.md)
+- 🔍 [RAG Roadmap](roadmaps/rag-roadmap.md)
+- 🚀 [MLOps & Production AI Roadmap](roadmaps/mlops-roadmap.md)
+---
 
-You can contribute by:
-- Adding books
-- Adding courses
-- Adding videos
-- Fixing links
-- Improving structure
 
-### Steps
-1. Fork the repository
-2. Create a new branch
-3. Add your resource
-4. Submit a Pull Request
+## Contribute
 
-⭐ If you find this useful, please **star the repo**
+Many hands make light work! I would be more than happy if you are willing to contribute to this repository and help others learn better.
+
+Make sure to read the [`CONTRIBUTING`]() file to understand more on how you can help!
 
 ---
 
@@ -160,6 +149,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
