@@ -47,7 +47,7 @@ Before starting Machine Learning, you should be comfortable with:
 ## Beginner Level — Foundations
 
 Understand ML fundamentals, write clean Python code, and build your **first real Machine Learning models**.
-#### **Core Concepts** : 
+### **Core Concepts** : 
 [scikit-learn Basics](https://scikit-learn.org/stable/getting_started.html), 
 [Data Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
 [Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
@@ -67,7 +67,7 @@ Understand ML fundamentals, write clean Python code, and build your **first real
 
 Become confident with **algorithms, evaluation, and feature engineering**.
 
-**Core Concepts** : 
+### **Core Concepts** : 
 [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), 
 [Cross-Validation](https://scikit-learn.org/stable/modules/cross_validation.html), 
 [Hyperparameter Tuning](https://scikit-learn.org/stable/modules/grid_search.html), 
