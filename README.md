@@ -161,9 +161,11 @@ Each roadmap is designed as a **clear, step-by-step learning guide**, moving fro
 
 ## Contribution
 
-Many hands make light work! I would be more than happy if you are willing to contribute to this repository and help others learn better.
+We welcome contributions from everyone, whether you are a beginner or an experienced practitioner. You can help by adding new resources, suggesting improvements, fixing broken links, or sharing your insights to make this repository even more helpful.
 
-Make sure to read the [`CONTRIBUTING`]() file to understand more on how you can help!
+
+Before submitting your changes, please review the [`CONTRIBUTING`](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute effectively. Every contribution counts and helps the community learn faster and better!
+
 
 ---
 
@@ -176,6 +178,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
