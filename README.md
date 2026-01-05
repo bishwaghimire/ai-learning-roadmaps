@@ -24,12 +24,12 @@ The resources are selected to balance **theory, intuition, and real-world applic
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Trending AI Topics](#trending-ai-topics)
+- [Learning Roadmaps](#learning-roadmaps)
 - [The Math Behind It All](#the-math-behind-it-all)
 - [Building Your Foundation](#building-your-foundation)
 - [Research Papers and Blogs](#research-papers-and-blogs)
 - [Tools and Frameworks](#tools-and-frameworks)
-- [Learning Roadmaps](#learning-roadmaps)
+- [Trending AI Topics](#trending-ai-topics)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -52,18 +52,20 @@ Having the right tools in place will help you focus on learning concepts instead
 ---
 
 
-## Trending AI Topics
+## Learning Roadmaps
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Transformers & Attention
-- Multimodal AI
-- AI Agents
-- Reinforcement Learning with Human Feedback (RLHF)
-- MLOps
-- AI Safety & Alignment
+Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
 
+-  [Data Science Roadmap](roadmaps/data-science-roadmap.md)
+-  [AI Roadmap](roadmaps/ai-roadmap.md)
+-  [Machine Learning Roadmap](roadmaps/ml-roadmap.md)
+-  [Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)
+-  [Transformers & LLM Roadmap](roadmaps/llm-transformers-roadmap.md)
+-  [RAG Roadmap](roadmaps/rag-roadmap.md)
+-  [MLOps & Production AI Roadmap](roadmaps/mlops-roadmap.md)
 ---
+
+
 
 ## The Math Behind It All
 
@@ -146,18 +148,18 @@ This section covers the **core programming and tooling foundations** required fo
 - LlamaIndex – https://www.llamaindex.ai/
 
 ---
-## Learning Roadmaps
+## Trending AI Topics
 
-Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Transformers & Attention
+- Multimodal AI
+- AI Agents
+- Reinforcement Learning with Human Feedback (RLHF)
+- MLOps
+- AI Safety & Alignment
 
--  [AI Roadmap](roadmaps/ai-roadmap.md)
--  [Machine Learning Roadmap](roadmaps/ml-roadmap.md)
--  [Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)
--  [Transformers & LLM Roadmap](roadmaps/llm-transformers-roadmap.md)
--  [RAG Roadmap](roadmaps/rag-roadmap.md)
--  [MLOps & Production AI Roadmap](roadmaps/mlops-roadmap.md)
 ---
-
 
 ## Contribution
 
@@ -178,6 +180,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
