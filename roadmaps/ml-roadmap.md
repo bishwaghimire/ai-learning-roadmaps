@@ -8,7 +8,6 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-  - [Tools & Skills](#tools--skills)
 
 - [Beginner Level — Foundations](#beginner-level--foundations)
   - [Resources (Beginner)](#resources)
@@ -39,22 +38,19 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 ## Prerequisites
 
 Before starting Machine Learning, you should be comfortable with:
-- [Mathematics](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/README.md#the-math-behind-it-all)
-- Programming
-
-### Tools & Skills
-- scikit-learn Basics  
-  https://scikit-learn.org/stable/getting_started.html
-- Data Preprocessing  
-  https://scikit-learn.org/stable/modules/preprocessing.html
-- Model Evaluation  
-  https://scikit-learn.org/stable/modules/model_evaluation.html
+- Mathematics: [See README.md#the-math-behind-it-all](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/README.md#the-math-behind-it-all)
+- Programming Language: [Python]
+- Tools & Skills: [Numpy, Pandas, Matplotlib, Scikit-learn]
 
 ---
 
 ## Beginner Level — Foundations
 
 Understand ML fundamentals, write clean Python code, and build your **first real Machine Learning models**.
+**Core Concepts** : 
+[scikit-learn Basics](https://scikit-learn.org/stable/getting_started.html), 
+[Data Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
+[Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 ---
 
@@ -250,7 +246,7 @@ By completing this roadmap, you will be able to:
 - Work with real-world datasets  
 - Evaluate and tune models correctly  
 - Deploy ML systems professionally
-  
+   
 ---
 
 ## Career Paths After This Roadmap
