@@ -5,7 +5,7 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 > A **complete Core Machine Learning roadmap** for absolute beginners to advanced practitioners.  
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
   - [Tools & Skills](#tools--skills)
@@ -39,7 +39,7 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 ## Prerequisites
 
 Before starting Machine Learning, you should be comfortable with:
-- Mathematics
+- [Mathematics](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/README.md#the-math-behind-it-all)
 - Programming
 
 ### Tools & Skills
