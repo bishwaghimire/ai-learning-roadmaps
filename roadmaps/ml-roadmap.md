@@ -47,7 +47,7 @@ Before starting Machine Learning, you should be comfortable with:
 ## Beginner Level — Foundations
 
 Understand ML fundamentals, write clean Python code, and build your **first real Machine Learning models**.
-**Core Concepts** : 
+#### **Core Concepts** : 
 [scikit-learn Basics](https://scikit-learn.org/stable/getting_started.html), 
 [Data Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
 [Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
@@ -110,7 +110,7 @@ _*❗ The ML Specialization by Andrew NG is a highly specialized and industry le
 
 Build **production-ready Machine Learning systems**.
 
-**Core Concepts**
+#### **Core Concepts**
 [Bayesian Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/), 
 [Probabilistic Graphical Models](https://web.stanford.edu/~jurafsky/slp3/), 
 [Causal Inference](https://www.bradyneal.com/causal-inference-course)
