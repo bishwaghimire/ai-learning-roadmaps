@@ -10,13 +10,14 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 - [Prerequisites](#prerequisites)
 
 - [Beginner Level — Foundations](#beginner-level--foundations)
-
-- [Intermediate Level — Core Machine Learning](#intermediate-level--core-machine-learning)
   - [Core Concepts](#core-concepts)
+  - 
+- [Intermediate Level — Core Machine Learning](#intermediate-level--core-machine-learning)
+  - [Core Concepts](#core-concepts-1)
   - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
 
 - [Advanced Level — Applied & Production ML](#advanced-level--applied--production-ml)
-  - [Core Concepts (Advanced)](#core-concepts-1)
+  - [Core Concepts (Advanced)](#core-concepts-2)
 
 - [Machine Learning Algorithms — Learning Resources](#machine-learning-algorithms--learning-resources)
 
