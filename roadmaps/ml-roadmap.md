@@ -63,7 +63,7 @@ Understand ML fundamentals, write clean Python code, and build your **first real
 
 Become confident with **algorithms, evaluation, and feature engineering**.
 
-### Core Concepts : 
+### Core Concepts:
 [Feature Engineering](https://www.kaggle.com/learn/feature-engineering), 
 [Cross-Validation](https://scikit-learn.org/stable/modules/cross_validation.html), 
 [Hyperparameter Tuning](https://scikit-learn.org/stable/modules/grid_search.html), 
