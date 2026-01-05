@@ -10,16 +10,13 @@ This roadmap guides learners from **machine learning fundamentals** to **industr
 - [Prerequisites](#prerequisites)
 
 - [Beginner Level — Foundations](#beginner-level--foundations)
-  - [Resources (Beginner)](#resources)
 
 - [Intermediate Level — Core Machine Learning](#intermediate-level--core-machine-learning)
   - [Core Concepts](#core-concepts)
-  - [Resources (Intermediate)](#resources-1)
   - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
 
 - [Advanced Level — Applied & Production ML](#advanced-level--applied--production-ml)
   - [Core Concepts (Advanced)](#core-concepts-1)
-  - [Resources (Advanced)](#resources-2)
 
 - [Machine Learning Algorithms — Learning Resources](#machine-learning-algorithms--learning-resources)
 
@@ -54,8 +51,6 @@ Understand ML fundamentals, write clean Python code, and build your **first real
 
 ---
 
-### Resources
-
 | S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
 |----|---------|----------------------|------------------------|-------|
 | 1 | [Hands-On Machine Learning – Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | [StatQuest – Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) | [Andrew Ng – Machine Learning](https://www.coursera.org/learn/machine-learning) | Beginner |
@@ -78,8 +73,6 @@ Become confident with **algorithms, evaluation, and feature engineering**.
 
 
 ---
-
-### Resources
 
 | S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
 |----|---------|----------------------|------------------------|-------|
@@ -115,8 +108,6 @@ Build **production-ready Machine Learning systems**.
 [Probabilistic Graphical Models](https://web.stanford.edu/~jurafsky/slp3/), 
 [Causal Inference](https://www.bradyneal.com/causal-inference-course)
 
-
-### Resources
 
 | S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
 |----|---------|----------------------|------------------------|-------|
