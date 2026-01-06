@@ -5,19 +5,20 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 > A **complete Core Data Science roadmap** for absolute beginners to advanced practitioners, designed for real-world problem solving and portfolio building.
 
 ---
+
 # Table of Contents
 
 - [Prerequisites](#prerequisites)
 - [Beginner Level — Foundations of Data Science](#beginner-level-—-foundations-of-data-science)
   - [Core Concepts](#core-concepts)
-  - [Beginner Roadmap Table](#beginner-level-—-roadmap-table)
-- [Intermediate Level — Data Analysis & Applied Statistics](#intermediate-level-—-data-analysis--applied-statistics)
+  - [Beginner Level — Roadmap Table](#beginner-level-—-roadmap-table)
+- [Intermediate Level — Data Analysis and Applied Statistics](#intermediate-level-—-data-analysis-and-applied-statistics)
   - [Core Concepts](#core-concepts-1)
-  - [Intermediate Roadmap Table](#Intermediate-level-—-roadmap-table)
-- [Advanced Level — Applied Data Science & Analytics](#advanced-level-—-applied-data-science--analytics)
+  - [Intermediate Level — Roadmap Table](#intermediate-level-—-roadmap-table)
+- [Advanced Level — Applied Data Science and Analytics](#advanced-level-—-applied-data-science-and-analytics)
   - [Core Concepts](#core-concepts-2)
-  - [Advanced Roadmap Table](#advanced-level-—-roadmap-table)
-- [Highly Recommended Books & Courses ⭐](#highly-recommended-books--courses-⭐)
+  - [Advanced Level — Roadmap Table](#advanced-level-—-roadmap-table)
+- [Highly Recommended Books and Courses](#highly-recommended-books-and-courses)
 - [Data Science Techniques — Learning Resources](#data-science-techniques-—-learning-resources)
 - [Projects (Highly Recommended)](#projects-highly-recommended)
   - [Beginner Projects](#beginner-projects)
@@ -26,6 +27,7 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 - [Final Outcome](#final-outcome)
 - [Career Paths After This Roadmap](#career-paths-after-this-roadmap)
 - [Final Notes](#final-notes)
+
 
 
 ---
@@ -266,5 +268,6 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
