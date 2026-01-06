@@ -377,7 +377,12 @@ This section covers the **core programming and tooling foundations** required fo
 ### Telegram
 > Telegram links can change often; these are curated and commonly used entry points.
 
-- **AI & Deep Learning Channels (Curated List)** — https://t.me/addlist/8_rRW2scgfRhOTc0  
+- **Machine Learning & Artificial Intelligence | Data Science** https://t.me/datasciencefree
+- **Machine Learning** - https://t.me/DataScienceM
+- **Python Data Science Machine Learning** - https://t.me/DataScience9
+- **ML Research Hub** - https://t.me/DataScienceT
+- **AI & Deep Learning** - https://t.me/deeplearning005
+- **Artificial Intelligence** - https://t.me/Artificial_intelligence_in
 - **Deep Learning & AI Updates** — https://t.me/DeepLearning_ai  
 
 ### Other Communities
@@ -442,6 +447,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
