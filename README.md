@@ -1,10 +1,12 @@
 <h1 align="center">📚 AI / ML / DL Books & Resources Hub</h1>
 
-<p align="center"><i>Your one-stop, structured roadmap to master AI — from foundations to cutting-edge research.</i></p>
+<p align="center"> <i>A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.</i> </p>
 
-A carefully curated, all-in-one repository designed to help **Computer Science students, AI enthusiasts, and professionals** build strong foundations and progress confidently from **beginner to advanced levels**. This hub brings together the **best books, courses, playlists, and structured learning paths** across **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, LLMs, RAG, Transformers, and MLOps**, all organized in a clear, practical, and industry-relevant manner.
+A carefully curated, all-in-one repository designed to help **Computer Science students, AI enthusiasts, and professionals** who want to build strong foundations and progress confidently from **beginner to advanced levels**. 
+This hub brings together the **high-quality books, courses, playlists, research papers, tools,and learning roadmaps** covering: 
+**Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Transformers, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps.**, all organized in a clear, practical, and industry-relevant manner.
 
-The resources are selected to balance **theory, intuition, and real-world application**, allowing learners to follow modules **sequentially or in parallel** based on their goals and experience.
+The resources are selected to balance **theory, intuition, and real-world application**, allowing learners to follow modules **sequentially or in parallel** based on their goals.
 
 ⭐ **Recommended resources** highlight high-impact content widely used in **academia, research, and industry**, ensuring you focus on what truly matters in modern AI.
 
@@ -27,9 +29,9 @@ The resources are selected to balance **theory, intuition, and real-world applic
 - [Learning Roadmaps](#learning-roadmaps)
 - [The Math Behind It All](#the-math-behind-it-all)
 - [Building Your Foundation](#building-your-foundation)
-- [Research Papers and Blogs](#research-papers-and-blogs)
 - [Tools and Frameworks](#tools-and-frameworks)
-- [Trending AI Topics](#trending-ai-topics)
+- [Research Papers and Blogs](#research-papers-and-blogs)
+- [AI / ML Communities & Discussion Platforms](#ai--ml-communities--discussion-platforms)
 - [Key & Emerging AI Topics](#key--emerging-ai-topics)
 - [Contribution](#contribution)
 - [License](#license)
@@ -54,6 +56,7 @@ Having the right tools in place will help you focus on learning concepts instead
 
 
 ## Learning Roadmaps
+> Step-by-step structured paths from beginner to advanced for each AI subfield.
 
 Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
 
@@ -110,77 +113,21 @@ This section covers the **core programming and tooling foundations** required fo
 
 ---
 
-## Research Papers and Blogs
-
-- **Attention Is All You Need** – https://arxiv.org/abs/1706.03762  
-- **Retrieval‑Augmented Generation** – https://arxiv.org/abs/2005.11401  
-- **BERT: Pre‑training of Deep Bidirectional Transformers** – https://arxiv.org/abs/1810.04805  
-- **GPT‑3: Language Models are Few‑Shot Learners** – https://arxiv.org/abs/2005.14165  
-- **Vision Transformer (ViT)** – https://arxiv.org/abs/2010.11929  
-- **ResNet: Deep Residual Learning** – https://arxiv.org/abs/1512.03385  
-- **YOLOv4: Optimal Speed & Accuracy for Object Detection** – https://arxiv.org/abs/2004.10934  
-- **U‑Net: Convolutional Networks for Biomedical Image Segmentation** – https://arxiv.org/abs/1505.04597  
-- **AlphaFold: Protein Structure Prediction** – https://www.nature.com/articles/s41586‑021‑03819  
-- **GANs: Generative Adversarial Networks** – https://arxiv.org/abs/1406.2661  
-
-### Official & Research Blogs
-- [OpenAI Blog](https://openai.com/blog/)  
-- [Google AI Blog](https://ai.googleblog.com/)  
-- [DeepMind Blog](https://deepmind.com/blog/)  
-- [NVIDIA AI Blog](https://blogs.nvidia.com/ai/)  
-- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
-
-### Community & Practical Learning Blogs
-- [Towards Data Science](https://towardsdatascience.com/)  
-- [Machine Learning Mastery](https://machinelearningmastery.com/)  
-- [Hugging Face Blog](https://huggingface.co/blog/)  
-- [KDnuggets](https://www.kdnuggets.com/)  
-- [BAIR Blog – Berkeley AI Research](https://bair.berkeley.edu/blog/)  
-- [FastML](https://fastml.com/)
-- [GeeksforGeeks – ML & AI](https://www.geeksforgeeks.org/artificial-intelligence/)  
-
----
-
-## AI / ML Communities & Discussion Platforms
-> Learn continuously, ask questions, follow trends, and network
-### Reddit
-- https://www.reddit.com/r/MachineLearning  
-- https://www.reddit.com/r/datascience  
-- https://www.reddit.com/r/LocalLLaMA  
-
-### Discord
-- **Hugging Face Discord** — https://discord.com/invite/hugging-face-879548962464493619  
-- **OpenAI Community (Official Discord)** — https://discord.com/servers/openai-974519864045756446  
-- **Learn AI Together (AI / ML Study Group)** — https://discord.com/invite/learn-ai-together  
-- **MLSpace (Machine Learning Community)** — https://discord.com/invite/4RMwz64gdH  
- 
-
-### Telegram
-> Telegram links can change often; these are curated and commonly used entry points.
-
-- **AI & Deep Learning Channels (Curated List)** — https://t.me/addlist/8_rRW2scgfRhOTc0  
-- **Deep Learning & AI Updates** — https://t.me/DeepLearning_ai  
-
-### Other Communities
-- **GitHub Discussions**  
-  - Explore the *Discussions* tab on major AI/ML repos  
-  - Examples:  
-    - https://github.com/huggingface/transformers/discussions  
-    - https://github.com/pytorch/pytorch/discussions  
-
-- **Stack Overflow (Tags)**  
-  - Machine Learning — https://stackoverflow.com/questions/tagged/machine-learning  
-  - Deep Learning — https://stackoverflow.com/questions/tagged/deep-learning  
-  - NLP — https://stackoverflow.com/questions/tagged/nlp 
-
----
-
-
-
 ## Tools and Frameworks
 
 > A structured and collapsible list of essential tools used across AI, ML, DL, LLMs, and MLOps.  
 > Focused on **industry-standard** and **widely adopted** tools.
+
+---
+
+<details>
+<summary><strong> Visualization & Analysis</strong></summary>
+
+- **Matplotlib** — https://matplotlib.org/  
+- **Seaborn** — https://seaborn.pydata.org/  
+- **Plotly** — https://plotly.com/python/  
+
+</details>
 
 ---
 
@@ -191,9 +138,6 @@ This section covers the **core programming and tooling foundations** required fo
 - **NumPy** — https://numpy.org/  
 - **Pandas** — https://pandas.pydata.org/  
 - **SciPy** — https://scipy.org/ 
-- **Matplotlib** — https://matplotlib.org/  
-- **Seaborn** — https://seaborn.pydata.org/  
-- **Plotly** — https://plotly.com/python/
 - **Statsmodels** — https://www.statsmodels.org/ 
 
 </details>
@@ -280,22 +224,78 @@ This section covers the **core programming and tooling foundations** required fo
 
 ---
 
-<details>
-<summary><strong> Visualization & Analysis</strong></summary>
 
-- **Matplotlib** — https://matplotlib.org/  
-- **Seaborn** — https://seaborn.pydata.org/  
-- **Plotly** — https://plotly.com/python/  
-
-</details>
-
----
 
 > ⚠️ **Note:**  
 > This list is intentionally curated. Tools are chosen based on **adoption, stability, and relevance** across AI subfields.
 
 ---
-## Trending AI Topics
+
+## Research Papers and Blogs
+
+- **Attention Is All You Need** – https://arxiv.org/abs/1706.03762  
+- **Retrieval‑Augmented Generation** – https://arxiv.org/abs/2005.11401  
+- **BERT: Pre‑training of Deep Bidirectional Transformers** – https://arxiv.org/abs/1810.04805  
+- **GPT‑3: Language Models are Few‑Shot Learners** – https://arxiv.org/abs/2005.14165  
+- **Vision Transformer (ViT)** – https://arxiv.org/abs/2010.11929  
+- **ResNet: Deep Residual Learning** – https://arxiv.org/abs/1512.03385  
+- **YOLOv4: Optimal Speed & Accuracy for Object Detection** – https://arxiv.org/abs/2004.10934  
+- **U‑Net: Convolutional Networks for Biomedical Image Segmentation** – https://arxiv.org/abs/1505.04597  
+- **AlphaFold: Protein Structure Prediction** – https://www.nature.com/articles/s41586‑021‑03819  
+- **GANs: Generative Adversarial Networks** – https://arxiv.org/abs/1406.2661  
+
+### Official & Research Blogs
+- [OpenAI Blog](https://openai.com/blog/)  
+- [Google AI Blog](https://ai.googleblog.com/)  
+- [DeepMind Blog](https://deepmind.com/blog/)  
+- [NVIDIA AI Blog](https://blogs.nvidia.com/ai/)  
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+
+### Community & Practical Learning Blogs
+- [Towards Data Science](https://towardsdatascience.com/)  
+- [Machine Learning Mastery](https://machinelearningmastery.com/)  
+- [Hugging Face Blog](https://huggingface.co/blog/)  
+- [KDnuggets](https://www.kdnuggets.com/)  
+- [BAIR Blog – Berkeley AI Research](https://bair.berkeley.edu/blog/)  
+- [FastML](https://fastml.com/)
+- [GeeksforGeeks – ML & AI](https://www.geeksforgeeks.org/artificial-intelligence/)  
+
+---
+
+## AI / ML Communities & Discussion Platforms
+> Learn continuously, ask questions, follow trends, and network
+### Reddit
+- https://www.reddit.com/r/MachineLearning  
+- https://www.reddit.com/r/datascience  
+- https://www.reddit.com/r/LocalLLaMA  
+
+### Discord
+- **Hugging Face Discord** — https://discord.com/invite/hugging-face-879548962464493619  
+- **OpenAI Community (Official Discord)** — https://discord.com/servers/openai-974519864045756446  
+- **Learn AI Together (AI / ML Study Group)** — https://discord.com/invite/learn-ai-together  
+- **MLSpace (Machine Learning Community)** — https://discord.com/invite/4RMwz64gdH  
+ 
+
+### Telegram
+> Telegram links can change often; these are curated and commonly used entry points.
+
+- **AI & Deep Learning Channels (Curated List)** — https://t.me/addlist/8_rRW2scgfRhOTc0  
+- **Deep Learning & AI Updates** — https://t.me/DeepLearning_ai  
+
+### Other Communities
+- **GitHub Discussions**  
+  - Explore the *Discussions* tab on major AI/ML repos  
+  - Examples:  
+    - https://github.com/huggingface/transformers/discussions  
+    - https://github.com/pytorch/pytorch/discussions  
+
+- **Stack Overflow (Tags)**  
+  - Machine Learning — https://stackoverflow.com/questions/tagged/machine-learning  
+  - Deep Learning — https://stackoverflow.com/questions/tagged/deep-learning  
+  - NLP — https://stackoverflow.com/questions/tagged/nlp 
+
+---
+
 
 ## Key & Emerging AI Topics
 
@@ -327,7 +327,7 @@ This section covers the **core programming and tooling foundations** required fo
 
 ## Contribution
 
-We welcome contributions from everyone, whether you are a beginner or an experienced practitioner. You can help by adding new resources, suggesting improvements, fixing broken links, or sharing your insights to make this repository even more helpful.
+We welcome contributions from everyone, whether you are a **beginner, practitioner, or researcher**. You can help by adding new resources, suggesting improvements, fixing broken links, or sharing your insights to make this repository even more helpful.
 
 
 Before submitting your changes, please review the [`CONTRIBUTING`](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute effectively. Every contribution counts and helps the community learn faster and better!
@@ -344,19 +344,6 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
