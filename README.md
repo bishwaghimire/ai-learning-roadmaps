@@ -10,8 +10,8 @@ The resources are selected to balance **theory, intuition, and real-world applic
 
 ⭐ **Recommended resources** highlight high-impact content widely used in **academia, research, and industry**, ensuring you focus on what truly matters in modern AI.
 
-![Stars](https://img.shields.io/github/stars/bishwaghimire/ai_ml_dl_books?style=social)
-![Forks](https://img.shields.io/github/forks/bishwaghimire/ai_ml_dl_books?style=social)
+![Stars](https://img.shields.io/github/stars/bishwaghimire/ai-learning-roadmaps?style=social)
+![Forks](https://img.shields.io/github/forks/bishwaghimire/ai-learning-roadmaps?style=social)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 <p align="center">
@@ -447,6 +447,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
