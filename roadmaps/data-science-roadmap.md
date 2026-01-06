@@ -5,34 +5,28 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 > A **complete Core Data Science roadmap** for absolute beginners to advanced practitioners, designed for real-world problem solving and portfolio building.
 
 ---
-
-## Table of Contents
+# Table of Contents
 
 - [Prerequisites](#prerequisites)
-
-- [Beginner Level — Foundations of Data Science](#beginner-level--foundations-of-data-science)
+- [Beginner Level — Foundations of Data Science](#beginner-level-—-foundations-of-data-science)
   - [Core Concepts](#core-concepts)
-  - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
-
-- [Intermediate Level — Data Analysis & Applied Statistics](#intermediate-level--data-analysis--applied-statistics)
+  - [Beginner Roadmap Table](#beginner-level-—-roadmap-table)
+- [Intermediate Level — Data Analysis & Applied Statistics](#intermediate-level-—-data-analysis--applied-statistics)
   - [Core Concepts](#core-concepts-1)
-  - [Highly Recommended Resources ⭐](#highly-recommended-resources-1-)
-
-- [Advanced Level — Applied Data Science & Analytics](#advanced-level--applied-data-science--analytics)
-  - [Core Concepts (Advanced)](#core-concepts-2)
-
-- [Data Science Techniques — Learning Resources](#data-science-techniques--learning-resources)
-
+  - [Intermediate Roadmap Table](#Intermediate-level-—-roadmap-table)
+- [Advanced Level — Applied Data Science & Analytics](#advanced-level-—-applied-data-science--analytics)
+  - [Core Concepts](#core-concepts-2)
+  - [Advanced Roadmap Table](#advanced-level-—-roadmap-table)
+- [Highly Recommended Books & Courses ⭐](#highly-recommended-books--courses-⭐)
+- [Data Science Techniques — Learning Resources](#data-science-techniques-—-learning-resources)
 - [Projects (Highly Recommended)](#projects-highly-recommended)
   - [Beginner Projects](#beginner-projects)
   - [Intermediate Projects](#intermediate-projects)
   - [Advanced Projects](#advanced-projects)
-
 - [Final Outcome](#final-outcome)
-
 - [Career Paths After This Roadmap](#career-paths-after-this-roadmap)
-
 - [Final Notes](#final-notes)
+
 
 ---
 
@@ -42,12 +36,9 @@ Before starting Data Science, you should be comfortable with:
 
 - **Mathematics**: Basic Algebra, Statistics, Probability  
 - **Programming Language**: Python  
-- **Tools & Skills**:  
-  - NumPy  
-  - Pandas  
-  - Matplotlib / Seaborn  
-  - Jupyter Notebook  
-
+- **Tools & Skills**:   NumPy, Pandas, Matplotlib / Seaborn, Jupyter Notebook
+> Start with Matplotlib then later go with Seaborn for advanced
+  
 ---
 
 ## Beginner Level — Foundations of Data Science
@@ -64,6 +55,7 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
   *[Strongly recommended for deep understanding]*
 ---
 
+### Beginner Level — Roadmap Table
 
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
@@ -74,22 +66,6 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
 | 5 | SQL Basics | SELECT, WHERE, ORDER BY<br>GROUP BY, HAVING<br>JOINs<br>Subqueries | [SQLBolt](https://sqlbolt.com/) | [SQL Full Course – freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY) |
 | 6 | Intro to Data Science | What is Data Science?<br>Data Science lifecycle<br>Types of data<br>Intro to datasets (Kaggle-style) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [What is Data Science? – freeCodeCamp](https://www.youtube.com/watch?v=X3paOmcrTjQ) |
 
-### Highly Recommended Books & Courses ⭐
-
-- **Python for Data Analysis** – *Wes McKinney* (Book)  [Link]()  
-  *[Must-read for Pandas, NumPy, and real-world data workflows]*
-
-- **Data Science from Scratch** – *Joel Grus* (Book)  [Link]()  
-  *[Excellent for understanding fundamentals from first principles]*
-
-- **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** – *Aurélien Géron* (Book)  [Link]()  
-  *[Strong bridge from Data Science → Machine Learning → Deep Learning]*
-
-- **Applied Statistics for Data Scientists** – *Peter Bruce & Andrew Bruce* (Book)  [Link]()  
-  *[Practical statistics used in real data science projects]*
-
-- **Machine Learning Specialization** – *Andrew Ng* (Coursera) [Link](https://www.coursera.org/specializations/machine-learning-introduction)   
-  *[Conceptual clarity + mathematical intuition]*
 
 ---
 
@@ -106,6 +82,8 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 
 ---
 
+### Intermediate Level — Roadmap Table
+
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
 | 1 | Data Cleaning & Preprocessing | Missing values handling<br>Outlier detection<br>Categorical encoding<br>Feature scaling<br>Data leakage | [scikit-learn Preprocessing Guide](https://scikit-learn.org/stable/modules/preprocessing.html) | [Data Cleaning in Python – Alex The Analyst](https://www.youtube.com/watch?v=bDhvCp3_lYw) |
@@ -116,15 +94,6 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 | 6 | Working with Real Data | APIs<br>Web scraping<br>Time-series basics<br>Text data basics (TF-IDF) | [Web Scraping with Python](https://webscrapingwithpython.com/) | [APIs & Web Scraping – freeCodeCamp](https://www.youtube.com/watch?v=87Gx3U0BDlo) |
 | 7 | Version Control & Reproducibility | Git basics<br>GitHub workflow<br>README writing<br>requirements.txt<br>Reproducible experiments | [Pro Git Book](https://git-scm.com/book/en/v2) | [Git & GitHub Full Course – freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk) |
 
----
-
-### Highly Recommended Resources ⭐
-- Kaggle Data Visualization Course  
-  https://www.kaggle.com/learn/data-visualization
-- Kaggle Data Cleaning Course  
-  https://www.kaggle.com/learn/data-cleaning
-- *Practical Statistics for Data Scientists*  – Bruce & Gedeck(Book) 
-  https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
 
 ---
 
@@ -141,6 +110,8 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 
 ---
 
+### Advanced Level — Roadmap Table
+
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
 | 1 | Advanced Machine Learning | Gradient boosting<br>XGBoost<br>LightGBM<br>CatBoost<br>Model stacking<br>Hyperparameter tuning | [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/) | [Advanced ML Algorithms – Krish Naik](https://www.youtube.com/watch?v=O3l4c2YxXlE) |
@@ -151,6 +122,31 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 | 6 | MLOps & Deployment | Model versioning<br>Pipelines<br>Docker basics<br>CI/CD for ML<br>Model monitoring | [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | [MLOps End-to-End – DataTalksClub](https://www.youtube.com/watch?v=GZK7pCjYQ2o) |
 | 7 | Data Engineering for DS | ETL pipelines<br>Airflow basics<br>Data validation<br>Logging & monitoring | [DDIA Notes & References](https://github.com/ept/ddia-references) | [Data Engineering Roadmap – freeCodeCamp](https://www.youtube.com/watch?v=I2wURDqiXdM) |
 | 8 | Ethics & Responsible AI | Bias & fairness<br>Explainable AI (SHAP, LIME)<br>Privacy & security<br>Responsible AI practices | [Google Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) | [AI Ethics Explained – freeCodeCamp](https://www.youtube.com/watch?v=8nZUXr5XW7s) |
+
+---
+
+### Highly Recommended Books & Courses ⭐
+
+- **Python for Data Analysis** – *Wes McKinney* (Book)  [Link](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/foundations/Python-for-Data-Analysis.pdf)  
+  *[Must-read for Pandas, NumPy, and real-world data workflows]*
+
+- **Data Science from Scratch** – *Joel Grus* (Book)  [Link](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/Data-Science/Data_Science_from_Scratch_First_Principles_with_Python_by_Joel_Grus.pdf)  
+  *[Excellent for understanding fundamentals from first principles]*
+
+- **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** – *Aurélien Géron* (Book)  [Link](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/foundations/Hands-on-ml-with-scikitlearn-and-tf.pdf)  
+  *[Strong bridge from Data Science → Machine Learning → Deep Learning]*
+
+- **Practical Statistics for Data Scientists** – *Peter Bruce & Andrew Bruce* (Book)  [Link](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/Data-Science/Practical-Statistics-for-Data-Scientists.pdf)  
+  *[Practical statistics used in real data science projects]*
+
+- **Machine Learning Specialization** – *Andrew Ng* (Coursera) [Link](https://www.coursera.org/specializations/machine-learning-introduction)   
+  *[Conceptual clarity + mathematical intuition]*
+
+- **Data Visualization Course – Kaggle** [Link](https://www.kaggle.com/learn/data-visualization)  
+  *[Hands-on practice with charts, plots, and visualization libraries]*
+
+- **Data Cleaning Course – Kaggle** [Link](https://www.kaggle.com/learn/data-cleaning)  
+  *[Learn to clean and preprocess messy datasets efficiently]*
 
 ---
 
@@ -270,4 +266,5 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
