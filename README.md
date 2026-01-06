@@ -233,16 +233,24 @@ This section covers the **core programming and tooling foundations** required fo
 
 ## Research Papers and Blogs
 
-- **Attention Is All You Need** – https://arxiv.org/abs/1706.03762  
-- **Retrieval‑Augmented Generation** – https://arxiv.org/abs/2005.11401  
-- **BERT: Pre‑training of Deep Bidirectional Transformers** – https://arxiv.org/abs/1810.04805  
-- **GPT‑3: Language Models are Few‑Shot Learners** – https://arxiv.org/abs/2005.14165  
-- **Vision Transformer (ViT)** – https://arxiv.org/abs/2010.11929  
-- **ResNet: Deep Residual Learning** – https://arxiv.org/abs/1512.03385  
-- **YOLOv4: Optimal Speed & Accuracy for Object Detection** – https://arxiv.org/abs/2004.10934  
-- **U‑Net: Convolutional Networks for Biomedical Image Segmentation** – https://arxiv.org/abs/1505.04597  
-- **AlphaFold: Protein Structure Prediction** – https://www.nature.com/articles/s41586‑021‑03819  
-- **GANs: Generative Adversarial Networks** – https://arxiv.org/abs/1406.2661  
+#### Core & Foundational Papers
+- **Attention Is All You Need** — https://arxiv.org/abs/1706.03762  
+- **BERT: Pre-training of Deep Bidirectional Transformers** — https://arxiv.org/abs/1810.04805  
+- **GPT-3: Language Models are Few-Shot Learners** — https://arxiv.org/abs/2005.14165  
+- **GANs: Generative Adversarial Networks** — https://arxiv.org/abs/1406.2661  
+
+#### Modern LLM & System Design
+- **Retrieval-Augmented Generation (RAG)** — https://arxiv.org/abs/2005.11401  
+
+#### Computer Vision
+- **ResNet: Deep Residual Learning** — https://arxiv.org/abs/1512.03385  
+- **Vision Transformer (ViT)** — https://arxiv.org/abs/2010.11929  
+- **YOLOv4: Optimal Speed & Accuracy for Object Detection** — https://arxiv.org/abs/2004.10934  
+- **U-Net: Biomedical Image Segmentation** — https://arxiv.org/abs/1505.04597  
+
+#### Special & Interdisciplinary
+- **AlphaFold: Protein Structure Prediction** — https://www.nature.com/articles/s41586-021-03819  
+ 
 
 ### Official & Research Blogs
 - [OpenAI Blog](https://openai.com/blog/)  
@@ -301,24 +309,24 @@ This section covers the **core programming and tooling foundations** required fo
 
 > High-impact areas shaping modern AI research and industry applications.
 
-### Foundations & Model Architectures
+#### Foundations & Model Architectures
 - Transformers & Attention  
 - Large Language Models (LLMs)  
 - Multimodal AI (Text, Image, Audio, Video)
 
-### LLM Systems & Applications
+#### LLM Systems & Applications
 - Retrieval-Augmented Generation (RAG)  
 - AI Agents & Tool-Using Models  
 
-### Training, Optimization & Alignment
+#### Training, Optimization & Alignment
 - Reinforcement Learning with Human Feedback (RLHF)  
 - Model Fine-Tuning & Evaluation  
 
-### Production & Lifecycle
+#### Production & Lifecycle
 - MLOps  
 - Model Deployment & Monitoring  
 
-### Safety, Ethics & Governance
+#### Safety, Ethics & Governance
 - AI Safety & Alignment  
 - Responsible & Explainable AI  
 
@@ -344,6 +352,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
