@@ -4,6 +4,12 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 
 > A **complete Core Data Science roadmap** for absolute beginners to advanced practitioners, designed for real-world problem solving and portfolio building.
 
+<p align="center">
+  <img src="../assets/data-scientist-roadmap.png" width="300" style="margin-right: 20px;" />
+  <img src="../assets/data-scientist-roadmap2.png" style="height: 350px;" />
+</p>
+
+
 ---
 
 # Table of Contents
@@ -268,6 +274,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
