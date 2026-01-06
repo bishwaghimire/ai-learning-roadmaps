@@ -18,7 +18,7 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 - [Advanced Level - Applied Data Science and Analytics](#advanced-level---applied-data-science-and-analytics)
   - [Core Concepts](#core-concepts-2)
   - [Advanced Level - Roadmap Table](#advanced-level---roadmap-table)
-- [Highly Recommended Books and Courses](#highly-recommended-books-and-courses-)
+ - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
 - [Data Science Techniques - Learning Resources](#data-science-techniques---learning-resources)
 - [Projects (Highly Recommended)](#projects-highly-recommended)
   - [Beginner Projects](#beginner-projects)
@@ -127,7 +127,7 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 
 ---
 
-### Highly Recommended Books & Courses ⭐
+ ### Highly Recommended Resources ⭐
 
 - **Python for Data Analysis** – *Wes McKinney* (Book)  [Link](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/foundations/Python-for-Data-Analysis.pdf)  
   *[Must-read for Pandas, NumPy, and real-world data workflows]*
@@ -268,6 +268,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
