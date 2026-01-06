@@ -433,20 +433,21 @@ This section covers the **core programming and tooling foundations** required fo
 We welcome contributions from everyone, whether you are a **beginner, practitioner, or researcher**. You can help by adding new resources, suggesting improvements, fixing broken links, or sharing your insights to make this repository even more helpful.
 
 
-Before submitting your changes, please review the [`CONTRIBUTING`](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute effectively. Every contribution counts and helps the community learn faster and better!
+Before submitting your changes, please review the [`CONTRIBUTING`](CONTRIBUTING.md) file for guidelines on how to contribute effectively. Every contribution counts and helps the community learn faster and better!
 
 
 ---
 
 ## License
 
-This repository is licensed under the **MIT License**.
+This repository is licensed under the [`**MIT License**`](LICENSE).
 
 ---
 
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
