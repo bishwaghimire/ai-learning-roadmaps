@@ -440,13 +440,14 @@ Before submitting your changes, please review the [`CONTRIBUTING`](CONTRIBUTING.
 
 ## License
 
-This repository is licensed under the [`**MIT License**`](LICENSE).
+This repository is licensed under the [`MIT License`](LICENSE).
 
 ---
 
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
