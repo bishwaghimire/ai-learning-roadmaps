@@ -71,7 +71,7 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
 
 ---
 
-## Intermediate Level - Data Analysis & Applied Statistics
+## Intermediate Level - Data Analysis and Applied Statistics
 
 Become confident with **data cleaning, visualization, statistics, and exploratory analysis**.
 
@@ -99,7 +99,7 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 
 ---
 
-## Advanced Level - Applied Data Science & Analytics
+## Advanced Level - Applied Data Science and Analytics
 
 Apply Data Science techniques to **business problems, large datasets, and decision-making systems**.
 
@@ -268,6 +268,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
