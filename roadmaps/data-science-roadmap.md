@@ -62,10 +62,10 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
 | 1 | Programming Basics (Python) | Python syntax & data types<br>Control flow (if/else, loops)<br>Functions & modules<br>Virtual environments<br>Jupyter Notebook basics | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | [Corey Schafer – Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) |
-| 2 | Python for Data Analysis | NumPy (arrays, vectorization)<br>Pandas<br>Series & DataFrames<br>Data loading (CSV, Excel)<br>Filtering, grouping, merging<br>Basic data cleaning | [Pandas Official Documentation](https://pandas.pydata.org/docs/) | [Pandas Data Analysis – Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
-| 3 | Data Visualization | Matplotlib / Seaborn<br>Line plots<br>Bar charts<br>Histograms<br>Boxplots<br>Scatter plots | [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) | [Data Visualization with Python – freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4) |
+| 2 | Python for Data Analysis (Numpy & Pandas) | arrays, vectorization<br>Series & DataFrames<br>Data loading (CSV, Excel)<br>Filtering, grouping, merging<br>Basic data cleaning | [Pandas Official Documentation](https://pandas.pydata.org/docs/) | [Pandas Data Analysis – Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
+| 3 | Data Visualization (Matplotlib / Seaborn)| Line plots<br>Bar charts<br>Histograms<br>Boxplots<br>Scatter plots | [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) | [Data Visualization with Python – freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4) |
 | 4 | Statistics Basics | Mean, median, mode<br>Variance & standard deviation<br>Probability basics<br>Normal distribution<br>Correlation vs causation | [OpenIntro Statistics](https://www.openintro.org/book/os/) | [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) |
-| 5 | SQL Basics | SELECT, WHERE, ORDER BY<br>GROUP BY, HAVING<br>JOINs<br>Subqueries | [SQLBolt](https://sqlbolt.com/) | [SQL Full Course – freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY) |
+| 5 | SQL Basics | SELECT, WHERE, ORDER BY<br>GROUP BY, HAVING<br>JOINs<br>Subqueries | [SQL for Data Analysis - Book](https://github.com/bishwaghimire/ai_ml_dl_books/blob/main/resources/Data-Science/SQL-for-Data-Analysis.pdf),<br>[SQLBolt - Website](https://sqlbolt.com/) | [SQL Full Course – freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY) |
 | 6 | Intro to Data Science | What is Data Science?<br>Data Science lifecycle<br>Types of data<br>Intro to datasets (Kaggle-style) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [What is Data Science? – freeCodeCamp](https://www.youtube.com/watch?v=X3paOmcrTjQ) |
 
 
@@ -268,6 +268,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
