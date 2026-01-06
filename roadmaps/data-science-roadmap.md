@@ -18,7 +18,7 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 - [Advanced Level - Applied Data Science and Analytics](#advanced-level---applied-data-science-and-analytics)
   - [Core Concepts](#core-concepts-2)
   - [Advanced Level - Roadmap Table](#advanced-level---roadmap-table)
-- [Highly Recommended Books and Courses](#highly-recommended-books-and-courses)
+- [Highly Recommended Books and Courses](#highly-recommended-books-and-courses-)
 - [Data Science Techniques - Learning Resources](#data-science-techniques---learning-resources)
 - [Projects (Highly Recommended)](#projects-highly-recommended)
   - [Beginner Projects](#beginner-projects)
@@ -43,7 +43,7 @@ Before starting Data Science, you should be comfortable with:
   
 ---
 
-## Beginner Level — Foundations of Data Science
+## Beginner Level - Foundations of Data Science
 
 Build a **strong foundation** in Python, data handling, and basic exploratory analysis.
 
@@ -57,7 +57,7 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
   *[Strongly recommended for deep understanding]*
 ---
 
-### Beginner Level — Roadmap Table
+### Beginner Level - Roadmap Table
 
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
@@ -71,7 +71,7 @@ Build a **strong foundation** in Python, data handling, and basic exploratory an
 
 ---
 
-## Intermediate Level — Data Analysis & Applied Statistics
+## Intermediate Level - Data Analysis & Applied Statistics
 
 Become confident with **data cleaning, visualization, statistics, and exploratory analysis**.
 
@@ -84,7 +84,7 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 
 ---
 
-### Intermediate Level — Roadmap Table
+### Intermediate Level - Roadmap Table
 
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
@@ -99,7 +99,7 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 
 ---
 
-## Advanced Level — Applied Data Science & Analytics
+## Advanced Level - Applied Data Science & Analytics
 
 Apply Data Science techniques to **business problems, large datasets, and decision-making systems**.
 
@@ -112,7 +112,7 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 
 ---
 
-### Advanced Level — Roadmap Table
+### Advanced Level - Roadmap Table
 
 | sn | title | topics | best book | best video |
 |----|------|--------|-----------|------------|
@@ -152,7 +152,7 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 
 ---
 
-## Data Science Techniques — Learning Resources
+## Data Science Techniques - Learning Resources
 
 | S.No | Technique | Best Video | Best Website / Blog | Level |
 |-----:|----------|------------|---------------------|-------|
@@ -268,6 +268,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
