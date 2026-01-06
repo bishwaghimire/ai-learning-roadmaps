@@ -9,17 +9,17 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 # Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Beginner Level — Foundations of Data Science](#beginner-level-—-foundations-of-data-science)
+- [Beginner Level - Foundations of Data Science](#beginner-level---foundations-of-data-science)
   - [Core Concepts](#core-concepts)
-  - [Beginner Level — Roadmap Table](#beginner-level-—-roadmap-table)
-- [Intermediate Level — Data Analysis and Applied Statistics](#intermediate-level-—-data-analysis-and-applied-statistics)
+  - [Beginner Level - Roadmap Table](#beginner-level---roadmap-table)
+- [Intermediate Level - Data Analysis and Applied Statistics](#intermediate-level---data-analysis-and-applied-statistics)
   - [Core Concepts](#core-concepts-1)
-  - [Intermediate Level — Roadmap Table](#intermediate-level-—-roadmap-table)
-- [Advanced Level — Applied Data Science and Analytics](#advanced-level-—-applied-data-science-and-analytics)
+  - [Intermediate Level - Roadmap Table](#intermediate-level---roadmap-table)
+- [Advanced Level - Applied Data Science and Analytics](#advanced-level---applied-data-science-and-analytics)
   - [Core Concepts](#core-concepts-2)
-  - [Advanced Level — Roadmap Table](#advanced-level-—-roadmap-table)
+  - [Advanced Level - Roadmap Table](#advanced-level---roadmap-table)
 - [Highly Recommended Books and Courses](#highly-recommended-books-and-courses)
-- [Data Science Techniques — Learning Resources](#data-science-techniques-—-learning-resources)
+- [Data Science Techniques - Learning Resources](#data-science-techniques---learning-resources)
 - [Projects (Highly Recommended)](#projects-highly-recommended)
   - [Beginner Projects](#beginner-projects)
   - [Intermediate Projects](#intermediate-projects)
@@ -268,6 +268,7 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
 
 
 
