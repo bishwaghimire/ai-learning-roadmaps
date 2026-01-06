@@ -3,8 +3,8 @@
 <p align="center"> <i>A structured, end-to-end roadmap to master AI — from fundamentals to cutting-edge research.</i> </p>
 
 A carefully curated, all-in-one repository designed to help **Computer Science students, AI enthusiasts, and professionals** who want to build strong foundations and progress confidently from **beginner to advanced levels**. 
-This hub brings together the **high-quality books, courses, playlists, research papers, tools,and learning roadmaps** covering: 
-**Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Transformers, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps.**, all organized in a clear, practical, and industry-relevant manner.
+This hub brings together the **high-quality books, courses, playlists, research papers, tools, and learning roadmaps** covering: 
+**Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Transformers, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps**, all organized in a clear, practical, and industry-relevant manner.
 
 The resources are selected to balance **theory, intuition, and real-world application**, allowing learners to follow modules **sequentially or in parallel** based on their goals.
 
@@ -14,7 +14,7 @@ The resources are selected to balance **theory, intuition, and real-world applic
 ![Forks](https://img.shields.io/github/forks/bishwaghimire/ai_ml_dl_books?style=social)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-<p align="left">
+<p align="center">
   <img src="assets/ai-image.png" width="350">
 </p>
 
@@ -26,9 +26,11 @@ The resources are selected to balance **theory, intuition, and real-world applic
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Learning Roadmaps](#learning-roadmaps)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Learning Roadmaps](#learning-roadmaps-foundations--advanced)
+- [Career-Oriented Learning Paths](#career-oriented-learning-paths)
 - [The Math Behind It All](#the-math-behind-it-all)
-- [Building Your Foundation](#building-your-foundation)
+- [Programming & Framework Foundations](#programming--framework-foundations)    
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Research Papers and Blogs](#research-papers-and-blogs)
 - [AI / ML Communities & Discussion Platforms](#ai--ml-communities--discussion-platforms)
@@ -54,21 +56,105 @@ Having the right tools in place will help you focus on learning concepts instead
 
 ---
 
+## How to Use This Repository
 
-## Learning Roadmaps
-> Step-by-step structured paths from beginner to advanced for each AI subfield.
+1. **Start with the AI Roadmap** if you are new  
+2. Move into **ML → DL → specialization (CV, NLP, LLMs, etc.)**  
+3. Choose your **career track**:
+   - Engineer
+   - MLOps / Production
+   - Research Scientist
+   - AI Safety / Policy
 
-Each roadmap is designed as a **clear, step-by-step learning guide**, moving from fundamentals to advanced, research-level topics.
+> You do **not** need to follow everything linearly.  
+> These roadmaps are **modular but connected**.
 
--  [Data Science Roadmap](roadmaps/data-science-roadmap.md)
--  [AI Roadmap](roadmaps/ai-roadmap.md)
--  [Machine Learning Roadmap](roadmaps/ml-roadmap.md)
--  [Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)
--  [Transformers & LLM Roadmap](roadmaps/llm-transformers-roadmap.md)
--  [RAG Roadmap](roadmaps/rag-roadmap.md)
--  [MLOps & Production AI Roadmap](roadmaps/mlops-roadmap.md)
 ---
 
+## Learning Roadmaps (Foundations → Advanced)
+
+> **A complete, structured, and research-grade roadmap collection for Artificial Intelligence**  
+> From **foundations → specialization → production → research & safety**
+> Each roadmap is **independent**, **deep**, and **industry + research aligned**.
+
+### Foundations
+- **[AI Roadmap](roadmaps/ai-roadmap.md)**  
+  *Big-picture AI: concepts, history, paradigms, and learning paths*
+
+- **[Machine Learning Roadmap](roadmaps/machine-learning-roadmap.md)**  
+  *Supervised, unsupervised, classical ML → modern ML*
+
+- **[Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)**  
+  *Neural networks, CNNs, RNNs, Transformers*
+
+---
+
+## Specialization Roadmaps
+
+### Computer Vision
+- **[Computer Vision Roadmap](roadmaps/computer-vision-roadmap.md)**  
+  *Image classification, detection, segmentation, multimodal vision*
+
+### Natural Language Processing
+- **[NLP Roadmap](roadmaps/nlp-roadmap.md)**  
+  *Text processing → transformers → modern NLP systems*
+
+### Large Language Models
+- **[LLM Roadmap](roadmaps/llm-roadmap.md)**  
+  *Pretraining, fine-tuning, alignment, evaluation*
+
+### Generative AI
+- **[Generative AI Roadmap](roadmaps/generative-ai-roadmap.md)**  
+  *Diffusion, GANs, LLMs, multimodal GenAI systems*
+
+### Retrieval-Augmented Generation
+-  **[RAG Roadmap](roadmaps/rag-roadmap.md)**  
+  *Vector search, embeddings, system design, evaluation*
+
+---
+
+## Engineering & Production
+
+### MLOps & Production AI
+- **[MLOps & Production AI Roadmap](roadmaps/mlops-production-ai-roadmap.md)**  
+  *Deployment, monitoring, scalability, reliability*
+
+---
+
+## Research, Safety & Long-Term AI
+
+### Research Scientist (PhD-Level)
+- **[Research Scientist Roadmap](roadmaps/research-scientist-roadmap.md)**  
+  *Theory, experiments, paper writing, frontier research*
+
+### AI Safety & Alignment
+- **[AI Safety & Alignment Roadmap](roadmaps/ai-safety-alignment-roadmap.md)**  
+  *Ethics, alignment, governance, policy, long-term risk*
+
+---
+
+
+
+## Career-Oriented Learning Paths
+
+> Suggested learning sequences based on **career goals**, industry roles, and research tracks.  
+> These are **guidelines**, not strict rules — feel free to adapt based on your background.
+
+| Goal | Recommended Order |
+|----|------------------|
+| **Beginner / CS Student** | AI → Math → Python → ML → DL |
+| **AI Engineer** | AI → ML → DL → CV / NLP → LLM |
+| **Applied ML Engineer** | ML → DL → Feature Engineering → Model Tuning → Deployment |
+| **Data Scientist** | Math → Python → ML → Statistics → Data Science |
+| **GenAI Engineer** | AI → DL → LLM → GenAI → RAG |
+| **Computer Vision Engineer** | ML → DL → CV → Multimodal Models |
+| **NLP Engineer** | ML → DL → NLP → Transformers → LLM |
+| **MLOps Engineer** | ML → DL → MLOps → Production Systems |
+| **Research Scientist (PhD-Level)** | ML → DL → Theory → Research Scientist Roadmap |
+| **AI Safety / Policy** | AI → LLM → AI Safety & Alignment |
+
+
+---
 
 
 ## The Math Behind It All
@@ -97,7 +183,7 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 
 ---
 
-## Building Your Foundation
+## Programming & Framework Foundations
 
 This section covers the **core programming and tooling foundations** required for Machine Learning and Deep Learning.
 
@@ -109,7 +195,11 @@ This section covers the **core programming and tooling foundations** required fo
 | 4 | Matplotlib | [*Python Data Science Handbook* – Jake VanderPlas](resources/foundations/python_datascience_handbook.pdf) | [Matplotlib Tutorial – Sentdex](https://youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF&si=rrP9PjwV5L32iV2T) | [Data Science: Visualization – Harvard Online](https://www.harvardonline.harvard.edu/course/data-science-visualization) |
 | 5 | PyTorch / TensorFlow | [*Deep Learning with PyTorch*](resources/foundations/Deep-Learning-with-PyTorch.pdf) / [*Hands-On ML with TF*](resources/foundations/Hands-on-ml-with-scikitlearn-and-tf.pdf) | [PyTorch for Deep Learning & Machine Learning – freeCodeCamp.org](https://youtu.be/V_xro1bcAuA?si=p5qK5JTR-4FEUEEY) Or <br>[PyTorch Tutorials - Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=8Pyx_HdlRF_Ih9y6) <br> / <br> [TensorFlow For Beginners – freeCodeCamp.org](https://youtu.be/tPYj3fFJGjk?si=BzCHvxc0GkfzkEza) | [Stanford CS231n – Deep Learning for Computer Vision](https://cs231n.stanford.edu/) / [TensorFlow in Practice – DeepLearning.AI (Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice) |
 
-> _**❗ Note:** **PyTorch** is the preferred framework for **research & experimentation**, widely adopted in academia and cutting-edge ML research, whereas **TensorFlow** is the preferred choice for **production & deployment** due to its mature ecosystem and scalability._
+
+> **❗ Note:**
+> **PyTorch** dominates **research and rapid experimentation**, widely adopted in academia and cutting-edge ML research, while
+> **TensorFlow** and **PyTorch-based deployment tools (TorchServe, ONNX)** are widely used in **large-scale production systems** due to their mature ecosystems and
+>  scalability.
 
 ---
 
@@ -237,7 +327,7 @@ This section covers the **core programming and tooling foundations** required fo
 - **Attention Is All You Need** — https://arxiv.org/abs/1706.03762  
 - **BERT: Pre-training of Deep Bidirectional Transformers** — https://arxiv.org/abs/1810.04805  
 - **GPT-3: Language Models are Few-Shot Learners** — https://arxiv.org/abs/2005.14165  
-- **GANs: Generative Adversarial Networks** — https://arxiv.org/abs/1406.2661  
+- **Generative Adversarial Networks (GANs)** — https://arxiv.org/abs/1406.2661  
 
 #### Modern LLM & System Design
 - **Retrieval-Augmented Generation (RAG)** — https://arxiv.org/abs/2005.11401  
@@ -352,6 +442,7 @@ This repository is licensed under the **MIT License**.
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
