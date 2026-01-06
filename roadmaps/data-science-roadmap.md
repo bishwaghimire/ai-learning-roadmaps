@@ -12,10 +12,11 @@ This roadmap guides learners from **data handling fundamentals** to **industry-r
 
 - [Beginner Level — Foundations of Data Science](#beginner-level--foundations-of-data-science)
   - [Core Concepts](#core-concepts)
+  - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
 
 - [Intermediate Level — Data Analysis & Applied Statistics](#intermediate-level--data-analysis--applied-statistics)
   - [Core Concepts](#core-concepts-1)
-  - [Highly Recommended Resources ⭐](#highly-recommended-resources-)
+  - [Highly Recommended Resources ⭐](#highly-recommended-resources-1-)
 
 - [Advanced Level — Applied Data Science & Analytics](#advanced-level--applied-data-science--analytics)
   - [Core Concepts (Advanced)](#core-concepts-2)
@@ -54,17 +55,41 @@ Before starting Data Science, you should be comfortable with:
 Build a **strong foundation** in Python, data handling, and basic exploratory analysis.
 
 ### Core Concepts:
-[Python Basics](https://docs.python.org/3/tutorial/),  
-[NumPy Fundamentals](https://numpy.org/doc/stable/user/absolute_beginners.html),  
-[Pandas Basics](https://pandas.pydata.org/docs/getting_started/index.html),  
-[Data Types & Structures](https://realpython.com/python-data-types/)
-
+- **Python Basics** – [Corey Schafer – YouTube](https://www.youtube.com/c/CoreySchafer)
+    *[You can go in advanced with this]* 
+- **NumPy Basics** – [w3schools.com – Website](https://www.w3schools.com/python/numpy/default.asp) 
+- **Pandas Basics** – [geeksforgeeks.org – Website](https://www.geeksforgeeks.org/pandas/pandas-tutorial/)
+  *[You can go in advanced with this]*
+- **Data Types & Structures** – [Real Python – Website](https://realpython.com/python-data-types/)
+  *[Strongly recommended for deep understanding]*
 ---
 
-| S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
-|----|---------|----------------------|------------------------|-------|
-| 1 | *Python for Data Analysis* – Wes McKinney | [Corey Schafer – Python](https://www.youtube.com/c/CoreySchafer) | [Harvard CS50P](https://cs50.harvard.edu/python/) | Beginner |
-| 2 | *Data Science from Scratch* – Joel Grus | [Krish Naik – Python](https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9dM7H8vYwX8n9D6A) | [IBM Data Science Basics](https://www.coursera.org/learn/data-science-methodology) | Beginner |
+
+| sn | title | topics | best book | best video |
+|----|------|--------|-----------|------------|
+| 1 | Programming Basics (Python) | Python syntax & data types<br>Control flow (if/else, loops)<br>Functions & modules<br>Virtual environments<br>Jupyter Notebook basics | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | [Corey Schafer – Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) |
+| 2 | Python for Data Analysis | NumPy (arrays, vectorization)<br>Pandas<br>Series & DataFrames<br>Data loading (CSV, Excel)<br>Filtering, grouping, merging<br>Basic data cleaning | [Pandas Official Documentation](https://pandas.pydata.org/docs/) | [Pandas Data Analysis – Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
+| 3 | Data Visualization | Matplotlib / Seaborn<br>Line plots<br>Bar charts<br>Histograms<br>Boxplots<br>Scatter plots | [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) | [Data Visualization with Python – freeCodeCamp](https://www.youtube.com/watch?v=3Xc3CA655Y4) |
+| 4 | Statistics Basics | Mean, median, mode<br>Variance & standard deviation<br>Probability basics<br>Normal distribution<br>Correlation vs causation | [OpenIntro Statistics](https://www.openintro.org/book/os/) | [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) |
+| 5 | SQL Basics | SELECT, WHERE, ORDER BY<br>GROUP BY, HAVING<br>JOINs<br>Subqueries | [SQLBolt](https://sqlbolt.com/) | [SQL Full Course – freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY) |
+| 6 | Intro to Data Science | What is Data Science?<br>Data Science lifecycle<br>Types of data<br>Intro to datasets (Kaggle-style) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | [What is Data Science? – freeCodeCamp](https://www.youtube.com/watch?v=X3paOmcrTjQ) |
+
+### Highly Recommended Books & Courses ⭐
+
+- **Python for Data Analysis** – *Wes McKinney* (Book)  [Link]()  
+  *[Must-read for Pandas, NumPy, and real-world data workflows]*
+
+- **Data Science from Scratch** – *Joel Grus* (Book)  [Link]()  
+  *[Excellent for understanding fundamentals from first principles]*
+
+- **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** – *Aurélien Géron* (Book)  [Link]()  
+  *[Strong bridge from Data Science → Machine Learning → Deep Learning]*
+
+- **Applied Statistics for Data Scientists** – *Peter Bruce & Andrew Bruce* (Book)  [Link]()  
+  *[Practical statistics used in real data science projects]*
+
+- **Machine Learning Specialization** – *Andrew Ng* (Coursera) [Link](https://www.coursera.org/specializations/machine-learning-introduction)   
+  *[Conceptual clarity + mathematical intuition]*
 
 ---
 
@@ -81,20 +106,24 @@ Become confident with **data cleaning, visualization, statistics, and explorator
 
 ---
 
-| S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
-|----|---------|----------------------|------------------------|-------|
-| 1 | *Practical Statistics for Data Scientists* – Bruce & Gedeck | [StatQuest – Statistics](https://www.youtube.com/c/joshstarmer) | [MIT – Statistics & Data Science](https://ocw.mit.edu/) | Intermediate |
-| 2 | *Storytelling with Data* – Cole Knaflic | [Alex The Analyst – Data Analytics](https://www.youtube.com/c/AlexTheAnalyst) | [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) | Intermediate |
+| sn | title | topics | best book | best video |
+|----|------|--------|-----------|------------|
+| 1 | Data Cleaning & Preprocessing | Missing values handling<br>Outlier detection<br>Categorical encoding<br>Feature scaling<br>Data leakage | [scikit-learn Preprocessing Guide](https://scikit-learn.org/stable/modules/preprocessing.html) | [Data Cleaning in Python – Alex The Analyst](https://www.youtube.com/watch?v=bDhvCp3_lYw) |
+| 2 | Exploratory Data Analysis (EDA) | Univariate analysis<br>Bivariate analysis<br>Multivariate analysis<br>Visualization for insights<br>Hypothesis testing | [EDA Guide](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15) | [EDA in Python – freeCodeCamp](https://www.youtube.com/watch?v=xi0vhXFPegw) |
+| 3 | Machine Learning (Classical) | Linear regression<br>Logistic regression<br>k-NN<br>Decision trees<br>Random forest<br>SVM | [ISLR – Statistical Learning](https://www.statlearning.com/) | [Machine Learning – Andrew Ng](https://www.youtube.com/watch?v=aircAruvnKk) |
+| 4 | Model Evaluation | Train-test split<br>Cross-validation<br>Accuracy, precision, recall<br>F1-score<br>ROC-AUC<br>RMSE, MAE | [Model Evaluation – scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html) | [Model Evaluation Metrics – StatQuest](https://www.youtube.com/watch?v=85dtiMz9tSo) |
+| 5 | Feature Engineering | Feature selection<br>Polynomial features<br>Interaction terms<br>Dimensionality reduction | [Kaggle Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | [Feature Engineering – Krish Naik](https://www.youtube.com/watch?v=GduOUH1nY8Q) |
+| 6 | Working with Real Data | APIs<br>Web scraping<br>Time-series basics<br>Text data basics (TF-IDF) | [Web Scraping with Python](https://webscrapingwithpython.com/) | [APIs & Web Scraping – freeCodeCamp](https://www.youtube.com/watch?v=87Gx3U0BDlo) |
+| 7 | Version Control & Reproducibility | Git basics<br>GitHub workflow<br>README writing<br>requirements.txt<br>Reproducible experiments | [Pro Git Book](https://git-scm.com/book/en/v2) | [Git & GitHub Full Course – freeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk) |
 
 ---
 
 ### Highly Recommended Resources ⭐
-
 - Kaggle Data Visualization Course  
   https://www.kaggle.com/learn/data-visualization
 - Kaggle Data Cleaning Course  
   https://www.kaggle.com/learn/data-cleaning
-- *Practical Statistics for Data Scientists*  
+- *Practical Statistics for Data Scientists*  – Bruce & Gedeck(Book) 
   https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
 
 ---
@@ -112,10 +141,16 @@ Apply Data Science techniques to **business problems, large datasets, and decisi
 
 ---
 
-| S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
-|----|---------|----------------------|------------------------|-------|
-| 1 | *Data Science for Business* – Provost & Fawcett | [Ken Jee – Data Science](https://www.youtube.com/c/KenJee1) | [UC Berkeley – Data 8](https://data8.org/) | Advanced |
-| 2 | *Designing Data-Intensive Applications* – Kleppmann | [DataTalksClub](https://www.youtube.com/@DataTalksClub) | [Stanford CS109](https://web.stanford.edu/class/cs109/) | Advanced |
+| sn | title | topics | best book | best video |
+|----|------|--------|-----------|------------|
+| 1 | Advanced Machine Learning | Gradient boosting<br>XGBoost<br>LightGBM<br>CatBoost<br>Model stacking<br>Hyperparameter tuning | [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/) | [Advanced ML Algorithms – Krish Naik](https://www.youtube.com/watch?v=O3l4c2YxXlE) |
+| 2 | Deep Learning | Neural networks<br>Backpropagation<br>CNNs<br>RNNs & LSTMs<br>Transformers (overview) | [Deep Learning Book](https://www.deeplearningbook.org/) | [Deep Learning Full Course – freeCodeCamp](https://www.youtube.com/watch?v=VyWAvY2CF9c) |
+| 3 | Natural Language Processing (NLP) | Text preprocessing<br>TF-IDF<br>Word embeddings<br>BERT overview<br>Topic modeling | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) | [NLP Full Course – freeCodeCamp](https://www.youtube.com/watch?v=fOvTtapxa9c) |
+| 4 | Time Series Analysis | Trend & seasonality<br>ARIMA<br>SARIMA<br>Prophet<br>Forecast evaluation | [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | [Time Series Analysis – StatQuest](https://www.youtube.com/watch?v=JntA9XaTebs) |
+| 5 | Big Data & Distributed Computing | Spark basics<br>PySpark DataFrames<br>Hadoop concepts<br>Streaming data | [Apache Spark Docs](https://spark.apache.org/docs/latest/) | [PySpark Full Course – freeCodeCamp](https://www.youtube.com/watch?v=_C8kWso4ne4) |
+| 6 | MLOps & Deployment | Model versioning<br>Pipelines<br>Docker basics<br>CI/CD for ML<br>Model monitoring | [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | [MLOps End-to-End – DataTalksClub](https://www.youtube.com/watch?v=GZK7pCjYQ2o) |
+| 7 | Data Engineering for DS | ETL pipelines<br>Airflow basics<br>Data validation<br>Logging & monitoring | [DDIA Notes & References](https://github.com/ept/ddia-references) | [Data Engineering Roadmap – freeCodeCamp](https://www.youtube.com/watch?v=I2wURDqiXdM) |
+| 8 | Ethics & Responsible AI | Bias & fairness<br>Explainable AI (SHAP, LIME)<br>Privacy & security<br>Responsible AI practices | [Google Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) | [AI Ethics Explained – freeCodeCamp](https://www.youtube.com/watch?v=8nZUXr5XW7s) |
 
 ---
 
@@ -235,3 +270,4 @@ By completing this roadmap, you will be able to:
 
 > Data Science is about **asking the right questions**, not just building models.  
 > Clear thinking, strong fundamentals, and real-world projects matter more than tools alone.
+
