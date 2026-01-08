@@ -180,10 +180,18 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 | 9 | Probability | Bayes theorem, uncertainty | [Khan Academy – Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) | YouTube / Course | Beginner |
 |10 | Probability | Probabilistic ML foundations | [A First Course in Probability – Sheldon Ross](https://www.amazon.com/dp/0134753119) | Book | Intermediate |
 |11 | Statistics | Data understanding & evaluation | [Khan Academy – Statistics](https://www.khanacademy.org/math/statistics-probability) | YouTube / Course | Beginner |
-|12 | Statistics | Bias–variance, inference | [Statistical Inference – Casella & Berger](https://www.amazon.com/dp/0534243126) | Book | Intermediate |
-|13 | Statistics | Bayesian machine learning | [MIT OCW – Bayesian Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | University Course | Advanced |
-|14 | Optimization | Gradient descent, convex optimization | [Convex Optimization – Boyd & Vandenberghe](https://www.amazon.com/dp/0521833787) | Book | Intermediate |
-|15 | Optimization | Training deep neural networks | [Numerical Optimization – Nocedal & Wright](https://www.amazon.com/dp/0387303030) | Book | Advanced |
+| 12 | Statistics | Statistics for Data Science & ML | [Statistics – Full Lecture for Data Science (YouTube)](https://youtu.be/K9teElePNkk) | YouTube | Beginner → Intermediate |
+|13 | Statistics | Bias–variance, inference | [Statistical Inference – Casella & Berger](https://www.amazon.com/dp/0534243126) | Book | Intermediate |
+|14 | Statistics | Bayesian machine learning | [MIT OCW – Bayesian Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | University Course | Advanced |
+| 15 | Optimization | Gradient descent, convex optimization | [Convex Optimization – Boyd & Vandenberghe](https://www.amazon.com/dp/0521833787) | Book | Intermediate |
+| 15.1⭐ | Optimization | Convex optimization fundamentals (Stanford – Stephen Boyd) | [Convex Optimization (YouTube Lecture)](https://www.youtube.com/watch?v=kV1ru-Inzl4) | YouTube | Intermediate → Advanced |
+| 15.2 | Optimization | Optimization for Machine Learning | [Optimization in ML – Intro Lecture](https://www.youtube.com/watch?v=Dfz9nL_Ir6I) | YouTube | Intermediate |
+| 15.3⭐ | Optimization | Gradient descent & modern optimizers (SGD → Adam) | [Deep Learning Optimizers Explained](https://www.youtube.com/watch?v=TudQZtgpoHk) | YouTube | Beginner → Intermediate |
+| 15.4 | Optimization | Adaptive optimization methods | [Adagrad, RMSprop, Adam Explained](https://www.youtube.com/watch?v=1iwMICPqNCA) | YouTube | Intermediate |
+| 15.5 | Optimization | Convex optimization in ML practice | [Convex Optimization in Machine Learning](https://www.youtube.com/watch?v=FUGY7f05H_Q) | YouTube | Intermediate |
+| 16 | Optimization | Training deep neural networks | [Numerical Optimization – Nocedal & Wright](https://www.amazon.com/dp/0387303030) | Book | Advanced |
+| 16.1 | Optimization | Optimization methods for deep learning | [Optimization Methods in Deep Learning](https://www.youtube.com/watch?v=05WjCa1ikI8) | YouTube | Intermediate |
+| 16.2 | Optimization | Adam optimizer (deep dive) | [Adam Optimization Algorithm Explained](https://www.youtube.com/watch?v=MWZakqZDgfQ) | YouTube | Intermediate |
 
 ---
 
@@ -450,6 +458,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
