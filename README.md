@@ -197,7 +197,7 @@ This section covers the **core programming and tooling foundations** required fo
 | 2 | NumPy | [*Python for Data Analysis* – Wes McKinney](resources/foundations/Python-for-Data-Analysis.pdf) | [NumPy Tutorial – freeCodeCamp.org](https://www.youtube.com/watch?v=QUT1VHiLmmI) | [Python for Data Science – NPTEL Official Course](https://onlinecourses.nptel.ac.in/noc26_cs80/preview)|
 | 3 | Pandas | [*Python for Data Analysis* – Wes McKinney](resources/foundations/Python-for-Data-Analysis.pdf) | [Pandas Tutorial – Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=oejVnPLOscf8wCbj) | [Data Analysis with Python – IBM (Coursera)](https://www.coursera.org/learn/data-analysis-with-python) |
 | 4 | Matplotlib | [*Python Data Science Handbook* – Jake VanderPlas](resources/foundations/python_datascience_handbook.pdf) | [Matplotlib Tutorial – Sentdex](https://youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF&si=rrP9PjwV5L32iV2T) | [Data Science: Visualization – Harvard Online](https://www.harvardonline.harvard.edu/course/data-science-visualization) |
-| 5 | PyTorch / TensorFlow | [*Deep Learning with PyTorch*](resources/foundations/Deep-Learning-with-PyTorch.pdf) / [*Hands-On ML with TF*](resources/foundations/Hands-on-ml-with-scikitlearn-and-tf.pdf) | [PyTorch for Deep Learning & Machine Learning – freeCodeCamp.org](https://youtu.be/V_xro1bcAuA?si=p5qK5JTR-4FEUEEY) Or <br>[PyTorch Tutorials - Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=8Pyx_HdlRF_Ih9y6) <br> / <br> [TensorFlow For Beginners – freeCodeCamp.org](https://youtu.be/tPYj3fFJGjk?si=BzCHvxc0GkfzkEza) | [Stanford CS231n – Deep Learning for Computer Vision](https://cs231n.stanford.edu/) / [TensorFlow in Practice – DeepLearning.AI (Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice) |
+| 5 | PyTorch / TensorFlow | [*Deep Learning with PyTorch*](resources/foundations/Deep-Learning-with-PyTorch.pdf) / [*Hands-On ML with TF*](resources/foundations/Hands-on-ml-with-scikitlearn-and-tf.pdf) | [PyTorch for Deep Learning & Machine Learning – freeCodeCamp.org](https://youtu.be/V_xro1bcAuA?si=p5qK5JTR-4FEUEEY) <br> Or <br>[PyTorch Tutorials - Patrick Loeber](https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&si=8Pyx_HdlRF_Ih9y6) <br> / <br> [TensorFlow For Beginners – freeCodeCamp.org](https://youtu.be/tPYj3fFJGjk?si=BzCHvxc0GkfzkEza) | [Stanford CS231n – Deep Learning for Computer Vision](https://cs231n.stanford.edu/)<br> /<br> [TensorFlow in Practice – DeepLearning.AI (Coursera)](https://www.coursera.org/professional-certificates/tensorflow-in-practice) |
 
 
 > **❗ Note:**
@@ -451,6 +451,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
