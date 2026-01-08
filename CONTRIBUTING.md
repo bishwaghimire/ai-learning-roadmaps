@@ -125,7 +125,7 @@ If this is your first contribution, please refer to:
 2. Clone your fork
 
    ```bash
-   git clone https://github.com/your-username/ai-ml-resources.git
+   git clone https://github.com/bishwaghimire/ai-ml-resources.git
    ```
 3. Create a new branch
 
