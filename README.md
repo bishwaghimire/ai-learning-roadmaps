@@ -81,11 +81,15 @@ Having the right tools in place will help you focus on learning concepts instead
 - **[AI Roadmap](roadmaps/ai-roadmap.md)**  
   *Big-picture AI: concepts, history, paradigms, and learning paths*
 
-- **[Machine Learning Roadmap](roadmaps/machine-learning-roadmap.md)**  
+- **[Data Science Roadmap](roadmaps/data-science-roadmap.md)**  
+  *Math, statistics, data analysis, visualization, and applied data workflows*
+
+- **[Machine Learning Roadmap](roadmaps/ml-roadmap.md)**  
   *Supervised, unsupervised, classical ML → modern ML*
 
 - **[Deep Learning Roadmap](roadmaps/deep-learning-roadmap.md)**  
   *Neural networks, CNNs, RNNs, Transformers*
+
 
 ---
 
@@ -447,6 +451,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
