@@ -391,8 +391,7 @@ This section covers the **core programming and tooling foundations** required fo
 
 ### Other Communities
 - **GitHub Discussions**  
-  - Explore the *Discussions* tab on major AI/ML repos  
-  - Examples:  
+  - Explore the *Discussions* tab on major AI/ML repos   Examples:  
     - https://github.com/huggingface/transformers/discussions  
     - https://github.com/pytorch/pytorch/discussions  
 
@@ -451,6 +450,7 @@ This repository is licensed under the [`MIT License`](LICENSE).
 ## Acknowledgements
 
 Built with ❤️ for the global AI & Computer Science community.
+
 
 
 
