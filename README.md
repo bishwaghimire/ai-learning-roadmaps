@@ -164,7 +164,7 @@ Having the right tools in place will help you focus on learning concepts instead
 ## The Math Behind It All
 
 This repository contains a **curated list of foundational mathematics resources** required for **AI, Machine Learning, and Data Science**.  
-The resources are organized by **subject**, **difficulty level**, and **resource type** (Book, YouTube Playlist, University Course).
+The resources are organized by **subject**, **difficulty level**, and **resource type** (Book, YouTube Playlist, University Course, Tool).
 
 
 | S.N | Area | AI/ML-Relevant Focus | Best Resource | Type | Level |
@@ -192,6 +192,7 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 | 16 | Optimization | Training deep neural networks | [Numerical Optimization – Nocedal & Wright](https://www.amazon.com/dp/0387303030) | Book | Advanced |
 | 16.1 | Optimization | Optimization methods for deep learning | [Optimization Methods in Deep Learning](https://www.youtube.com/watch?v=05WjCa1ikI8) | YouTube | Intermediate |
 | 16.2 | Optimization | Adam optimizer (deep dive) | [Adam Optimization Algorithm Explained](https://www.youtube.com/watch?v=MWZakqZDgfQ) | YouTube | Intermediate |
+| 17 | Algorithmic Math | Manual math breakdown of core ML algorithms | [Step-by-Step ML Algorithm Solvers](https://www.stepbystepml.com) | Tool | Beginner |
 
 ---
 
