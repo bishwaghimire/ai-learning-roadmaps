@@ -77,7 +77,7 @@ Become confident with **algorithms, evaluation, and feature engineering**.
 
 | S.No | Best Book | Best YouTube Playlist | Best University Course | Level |
 |----|---------|----------------------|------------------------|-------|
-| 1 | *Hands-On Machine Learning* – Géron | [StatQuest – Algorithms](https://www.youtube.com/c/joshstarmer) | [Stanford CS229](https://cs229.stanford.edu/) | Intermediate |
+| 1 | *Hands-On Machine Learning* – Géron | [StatQuest – Algorithms](https://www.youtube.com/@statquest/playlists) | [Stanford CS229](https://cs229.stanford.edu/) | Intermediate |
 | 2 | *Pattern Recognition and ML* – Bishop | [Krish Naik – ML](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) | [Caltech CS156](https://work.caltech.edu/telecourse.html) | Intermediate |
 | 3 | *Applied Machine Learning* – Forsyth | [sentdex – ML](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) | [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course) | Intermediate |
 
