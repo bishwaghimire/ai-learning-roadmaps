@@ -10,6 +10,7 @@ This repository is a curated, community-driven collection of **high-quality Arti
 
 - [What Makes a Great Contribution](#what-makes-a-great-contribution)
 - [Ways to Contribute](#ways-to-contribute)
+- [Contribution Rules](#contribution-rules)
 - [Before Submitting a Pull Request](#before-submitting-a-pull-request)
 - [Required Format](#required-format)
 - [Resource Quality Criteria](#resource-quality-criteria)
@@ -67,6 +68,25 @@ You can contribute to this project by:
 
 
 All contributions are reviewed by maintainers.
+
+---
+
+### Contribution Rules
+
+- Only educational resources are accepted:
+  - Books
+  - Research papers
+  - Courses
+  - Official documentation
+
+- External tools, SaaS platforms, and promotional websites are generally NOT accepted.
+
+- Exception: A tool may be accepted only if it is:
+  - widely recognized in the ML/AI community, AND
+  - directly used in learning or research (not just a blog or personal platform), AND
+  - adds unique value not already covered by existing resources.
+
+- All contributions must maintain consistency with the roadmap structure.
 
 ---
 
